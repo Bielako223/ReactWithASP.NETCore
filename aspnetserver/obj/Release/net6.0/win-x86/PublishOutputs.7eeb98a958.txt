@@ -1,9 +1,6 @@
-C:\Users\mateu\Desktop\react\react-tutorial\aspnetserver\aspnetserver\obj\Release\net6.0\win-x86\PubTmp\Out\Data\AppDB.db
-C:\Users\mateu\Desktop\react\react-tutorial\aspnetserver\aspnetserver\obj\Release\net6.0\win-x86\PubTmp\Out\Data\AppDB.db-shm
 C:\Users\mateu\Desktop\react\react-tutorial\aspnetserver\aspnetserver\obj\Release\net6.0\win-x86\PubTmp\Out\aspnetserver.exe
 C:\Users\mateu\Desktop\react\react-tutorial\aspnetserver\aspnetserver\obj\Release\net6.0\win-x86\PubTmp\Out\appsettings.Development.json
 C:\Users\mateu\Desktop\react\react-tutorial\aspnetserver\aspnetserver\obj\Release\net6.0\win-x86\PubTmp\Out\appsettings.json
-C:\Users\mateu\Desktop\react\react-tutorial\aspnetserver\aspnetserver\obj\Release\net6.0\win-x86\PubTmp\Out\Data\AppDB.db-wal
 C:\Users\mateu\Desktop\react\react-tutorial\aspnetserver\aspnetserver\obj\Release\net6.0\win-x86\PubTmp\Out\aspnetserver.dll
 C:\Users\mateu\Desktop\react\react-tutorial\aspnetserver\aspnetserver\obj\Release\net6.0\win-x86\PubTmp\Out\aspnetserver.runtimeconfig.json
 C:\Users\mateu\Desktop\react\react-tutorial\aspnetserver\aspnetserver\obj\Release\net6.0\win-x86\PubTmp\Out\aspnetserver.pdb

@@ -1,9 +1,6 @@
 C:\Users\mateu\Desktop\react\react-tutorial\aspnetserver\aspnetserver\bin\Release\net6.0\win-x86\appsettings.Development.json
 C:\Users\mateu\Desktop\react\react-tutorial\aspnetserver\aspnetserver\bin\Release\net6.0\win-x86\appsettings.json
-C:\Users\mateu\Desktop\react\react-tutorial\aspnetserver\aspnetserver\bin\Release\net6.0\win-x86\Data\AppDB.db-wal
 C:\Users\mateu\Desktop\react\react-tutorial\aspnetserver\aspnetserver\bin\Release\net6.0\win-x86\aspnetserver.exe
-C:\Users\mateu\Desktop\react\react-tutorial\aspnetserver\aspnetserver\bin\Release\net6.0\win-x86\Data\AppDB.db
-C:\Users\mateu\Desktop\react\react-tutorial\aspnetserver\aspnetserver\bin\Release\net6.0\win-x86\Data\AppDB.db-shm
 C:\Users\mateu\Desktop\react\react-tutorial\aspnetserver\aspnetserver\bin\Release\net6.0\win-x86\aspnetserver.deps.json
 C:\Users\mateu\Desktop\react\react-tutorial\aspnetserver\aspnetserver\bin\Release\net6.0\win-x86\aspnetserver.runtimeconfig.json
 C:\Users\mateu\Desktop\react\react-tutorial\aspnetserver\aspnetserver\bin\Release\net6.0\win-x86\aspnetserver.dll
